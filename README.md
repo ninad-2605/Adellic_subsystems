@@ -46,12 +46,12 @@ The **"Upper Void"** of our 8-bit bytes (values 243-255) is reserved for **Tacti
 ## 4. Telemetry Dashboard: Benchmark Audit
 *Environment: GTX 1650 Max-Q (sm_75) | Warp 1.11.1 | CUDA 12.9*
 
-| Metric | Sovereign V20 (Adelic) | Industry Standard (PyTorch/TensorRT) |
+| Metric | Sovereign V20 (Adelic) | 
 | :--- | :--- | :--- |
-| **Sustained Throughput** | **224.53 Billion T-Ops/sec** | 12.0 - 45.0 B-Ops |
-| **Execution Latency** | **0.631 ms** | 15.0 - 60.0 ms |
-| **Branching Overhead** | **STRICT_PURITY (0%)** | 20% - 40% (Typical) |
-| **Memory Parity** | **BIT_EXACT** | Stochastic / Lossy |
+| **Sustained Throughput** | **224.53 Billion T-Ops/sec** | 
+| **Execution Latency** | **0.631 ms** | 
+| **Branching Overhead** | **STRICT_PURITY (0%)** | 
+| **Memory Parity** | **BIT_EXACT** | 
 
 ---
 
