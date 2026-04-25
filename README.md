@@ -1,11 +1,11 @@
-# Adelic Subsystem: Sovereign V20
+# Adelic Subsystem:
 ### THE NON-ARCHIMEDEAN NEURAL FOUNDRY
 **Record Performance: 224.53 Billion T-Ops/sec (GTX 1650 Max-Q)**
 
 ---
 
 ## 1. The Paradigm: Beyond Binary Bloat
-Modern AI is hitting a **"Memory Wall."** Standard frameworks force high-entropy 32-bit floating-point math onto hardware that wasn't built for it, leading to massive energy and VRAM waste. **Sovereign V20** abandons the status quo. 
+Modern AI is hitting a **"Memory Wall."** Standard frameworks force high-entropy 32-bit floating-point math onto hardware that wasn't built for it, leading to massive energy and VRAM waste. **Adellic system** abandons the status quo. 
 
 By projecting neural weights into a **p-adic Adelic substrate**, we achieve a hardware-software congruence that allows a 4GB mobile GPU to deliver the cognitive throughput of a data-center-tier accelerator.
 
@@ -55,15 +55,16 @@ The **"Upper Void"** of our 8-bit bytes (values 243-255) is reserved for **Tacti
 
 ---
 
-## 5. Repository Assets & Deployment Intent
-The **Adelic Subsystem** was engineered for a singular mission: to provide the raw computational substrate for the **Heimdall RF-Sensing Model**. 
+### 5. Repository Assets & Intellectual Property
+The **Adelic Subsystem** is the core foundational asset of a forthcoming startup. To preserve **Architectural Sovereignty** and protect proprietary algebraic offsets, the full source code and model weights are held in a private, hardened repository.
 
-These performance metrics are the **physical requirements** for real-time, through-wall tracking of 52-joint human kinematics and cardiopulmonary micro-Doppler signatures on edge hardware. 
+The assets provided here serve as **Technical Proof of Competency** and performance verification:
 
-### Proof of Work:
-* **`/benchmarks`**: Contains the `absolute_singularity_telemetry_benchmark.py` script and raw `.log` outputs.
-* **`/kernels`**: Contains curated code snippets and branchless logic implementation.
-* **`telemetry_screenshot.png`**: Visual verification of the saturation load on the GTX 1650 Max-Q.
+* **`/benchmarks`**: Includes `absolute_singularity_telemetry_benchmark.py` and raw `.log` outputs. These allow third-party verification of the 224B T-Ops/sec throughput on equivalent hardware.
+* **`/kernels`**: A curated selection of **Stoichiometric Logic implementation**. These snippets demonstrate the branchless carry-resolution and p-adic unpacking logic while keeping the broader Adelic Compiler architecture obfuscated.
+* **`telemetry_dashboard.png`**: Visual telemetry confirming 100% saturation of the GTX 1650 Max-Q during execution.
+
+*Note: Full repository access, including the 437M-parameter Heimdall weights and the Adelic JIT-Compiler source, can be granted to reviewers upon formal request.*
 
 ---
 
