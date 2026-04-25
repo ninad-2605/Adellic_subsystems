@@ -64,8 +64,6 @@ The assets provided here serve as **Technical Proof of Competency** and performa
 * **`/kernels`**: A curated selection of **Stoichiometric Logic implementation**. These snippets demonstrate the branchless carry-resolution and p-adic unpacking logic while keeping the broader Adelic Compiler architecture obfuscated.
 * **`telemetry_dashboard.png`**: Visual telemetry confirming 100% saturation of the GTX 1650 Max-Q during execution.
 
-*Note: Full repository access, including the 437M-parameter Heimdall weights and the Adelic JIT-Compiler source, can be granted to reviewers upon formal request.*
+*Note: Full repository access, including the 437M-parameter model architecture and the Adelic JIT-Compiler source, can be granted to reviewers upon formal request.*
 
 ---
-
-**Sovereign Engine V20: The Future of Cognitive Sensing is Stoichiometric.**
