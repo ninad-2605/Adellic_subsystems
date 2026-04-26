@@ -1,11 +1,11 @@
 {
-    "timestamp": 1777131546.0936074,
+    "timestamp": 1777198936.3027523,
     "throughput_stage": {
-        "t_ops_sec": 224532107977.4484,
+        "t_ops_sec": 379114740719.7613,
         "status": "PASSED"
     },
     "fusion_stage": {
-        "latency_ms": 0.6308000010903925,
+        "latency_ms": 0.548899988643825,
         "status": "PASSED"
     },
     "math_parity": "BIT_EXACT",
@@ -32,5 +32,8 @@
         "UNDO": "VERIFIED",
         "SOS": "VERIFIED"
     },
-    "stoichiometry": "STRICT_PURITY"
+    "stoichiometry": "STRICT_PURITY",
+    "neural_stage": {
+        "t_ops_sec": 276057546269.07794
+    }
 }
